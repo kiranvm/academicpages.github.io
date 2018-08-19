@@ -19,5 +19,5 @@ I graduated with a bachelor's degree from MES College of Engineering under Unive
 
 Resume
 ======
-[Click Here] (https://github.com/kiranvm/kiranvm.github.io/tree/master/_resume/Student_Resume.pdf)
+[Click Here](https://github.com/kiranvm/kiranvm.github.io/tree/master/_resume/Student_Resume.pdf)
 
