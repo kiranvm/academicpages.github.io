@@ -1,6 +1,6 @@
 ---
 title: "2048"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/2048.png'>"
+excerpt: "Custom 2048 game<br/><img src='/images/2048.png'>"
 collection: portfolio
 ---
 
